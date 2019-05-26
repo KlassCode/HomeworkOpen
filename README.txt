@@ -1,4 +1,4 @@
-Cet projet est ecrit en java et presente un tout petit programme qui presente 
+Cet projet est ecrit en java et presente un tout petit programme qui simule
 l'achat d'un produit par un client
 un fichier Client.java
 un fichier Produit.java
