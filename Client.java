@@ -1,5 +1,5 @@
 public class Client{
-	
+	private int code;
 	private String nom;
 	private String prenom;
 	private String telephone;
@@ -9,7 +9,8 @@ public class Client{
 	public Client(){
 		
 	}
-	public Client(String nom, String prenom, String telephone, String adresse, String email){
+	public Client(int code,String nom, String prenom, String telephone, String adresse, String email){
+		this.code=code;
 		this.nom=nom;
 		this.prenom=prenom;
 		this.telephone= telephone;
